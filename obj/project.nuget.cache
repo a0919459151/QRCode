@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rA2OIqgh34HkuvPGerJ6xF/gtHbu3I9mtahIzrdPePZRqRwz+WYo+Asayd5dLLvJDjGWQxlL6jbQ4Y+ImZartw==",
+  "success": true,
+  "projectFilePath": "/Users/softbro/Repo/pracitce/dotnet/demo/QRCode/QRCode.csproj",
+  "expectedPackageFiles": [
+    "/Users/softbro/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/softbro/.nuget/packages/qrcoder/1.4.3/qrcoder.1.4.3.nupkg.sha512",
+    "/Users/softbro/.nuget/packages/sixlabors.imagesharp/3.0.1/sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "/Users/softbro/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/softbro/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/softbro/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/softbro/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
